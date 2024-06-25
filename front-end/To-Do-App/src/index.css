@@ -1,0 +1,32 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.active {
+    color: green !important;
+    font-weight: bolder;
+}
+
+.showNoteForm{
+    width: 50px;
+    height: 50px;
+    bottom: 3%;
+    right: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.showNoteForm{
+    font-size: 30px !important;
+
+}
+
+textarea{
+    resize: none;
+}
+
+.exitNote{
+    cursor: pointer;
+    top: 4%;
+    right: 4%;
+}

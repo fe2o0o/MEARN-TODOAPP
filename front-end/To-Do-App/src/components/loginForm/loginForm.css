@@ -1,0 +1,18 @@
+input{
+    box-shadow: none !important;
+}
+
+input:focus{
+    border: 1px solid black !important;
+}
+
+.form{
+    width: 40%;
+}
+
+
+@media screen and (max-width:992px) {
+    .form{
+        width: 100%;
+    }
+}
