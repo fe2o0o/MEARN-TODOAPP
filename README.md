@@ -1,2 +1,1 @@
-Simple TO-DO-APP
-Front-end
+<h1 style="text-algin:center;">Simple TODOAPP</h1>
